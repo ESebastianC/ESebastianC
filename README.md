@@ -39,6 +39,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/desleyer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="desleyer" height="30" width="40" /></a>
+  <a href="https://discord.gg/hwzSmFncpn" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="35" width="35" /></a>
 </p>
 <hr>
 
