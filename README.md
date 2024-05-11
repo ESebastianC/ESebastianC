@@ -58,10 +58,11 @@ Spotify Playing 🎧
 
 
 
-[![Spotify](https://novatorem2-alpha.vercel.app/api/spotify)](https://open.spotify.com/user/dsleyermusic?si=c0f9a79cb1024bc7)
+[<img src="https://github.com/ESebastianC/ESebastianC/blob/main/Spotify%20Playlist%20Photo%20Collage%20Vision%20Moodboard%20Instagram%20Post.gif?raw=true" alt="Spotify Playlist" width="400">](https://open.spotify.com/user/dsleyermusic?si=c0f9a79cb1024bc7)
 
 
-------
+
+
 
 Here are some [🦜 parrots](https://cultofthepartyparrot.com):
 
