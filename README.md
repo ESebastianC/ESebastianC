@@ -58,7 +58,7 @@ Spotify Playing 🎧
 
 
 
-[<img src="https://github.com/ESebastianC/ESebastianC/blob/main/Spotify%20Playlist%20Photo%20Collage%20Vision%20Moodboard%20Instagram%20Post.gif?raw=true" alt="Spotify Playlist" width="400">](https://open.spotify.com/user/dsleyermusic?si=c0f9a79cb1024bc7)
+[<img src="https://github.com/ESebastianC/ESebastianC/blob/main/BannerSpotify.gif?raw=true?raw=true" alt="Spotify Playlist" width="400">](https://open.spotify.com/intl-es/track/7hbk4BaF66O09R1gq0bKwj?si=97685da3e90c4d18)
 
 
 
