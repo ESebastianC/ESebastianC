@@ -1,7 +1,11 @@
 <h1 align="center"><b>Hi , I'm Sebastián Cortez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <img src="https://github.com/ESebastianC/ESebastianC/blob/main/LOGO1.png?raw=true" alt="Logo Sebastian" width="250">
+</p>
 
 
 <h4 align="center">Visitor's count :eyes:</h4>
+
 
 <p align="center"><img src="https://profile-counter.glitch.me/{esebastianc}/count.svg" alt="esebastianc:: Visitor's Count" style="filter: hue-rotate(180deg);" /></p>
 
@@ -22,7 +26,9 @@
 
 <hr>
 <div>
- <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
+  <p align="center">
+ <img src="https://github.com/ESebastianC/ESebastianC/blob/main/mago1.gif?raw=true" width="200"/>
+    </p>
 </div>
 
 <h4>About me <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 40px> </h4>
@@ -101,7 +107,9 @@ Here are some [🦜 parrots](https://cultofthepartyparrot.com):
 
 Credit: [Sebastián Cortez](https://github.com/ESebastianC)
 
-
+  <p align="center">
+ <img src="https://github.com/ESebastianC/ESebastianC/blob/main/wll1.png?raw=true" width="1500"/>
+    </p>
 
 
 
