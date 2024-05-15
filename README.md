@@ -36,7 +36,7 @@
 <h3 align="center">a 22-year-old developer from Ecuador. I'm passionate about technology and always eager to learn new things. I love building cool stuff and solving challenging problems. When I'm not coding, you can find me exploring the great outdoors or indulging in some good books.</h3>
 
 <br /> 
-- 💻 Visit my [Portfolio](https://kiran1689.github.io) for more details about me.
+
 
 
 <br />
@@ -74,7 +74,7 @@
 
 
 
-Here are some [🦜 parrots](https://cultofthepartyparrot.com):
+Here are some [🦜 parrots](https://esebastianc.github.io/):
 
 <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
