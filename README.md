@@ -12,10 +12,6 @@
 
 
 
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
 
 
 
@@ -33,7 +29,7 @@
 
 <h4>About me <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 40px> </h4>
 <hr>
-<h3 align="center">a 22-year-old developer from Ecuador. I'm passionate about technology and always eager to learn new things. I love building cool stuff and solving challenging problems. When I'm not coding, you can find me exploring the great outdoors or indulging in some good books.</h3>
+<h3 align="center">a 23-year-old developer from Ecuador. I'm passionate about technology and always eager to learn new things. I love building cool stuff and solving challenging problems. When I'm not coding, you can find me exploring the great outdoors or indulging in some good books.</h3>
 
 <br /> 
 
